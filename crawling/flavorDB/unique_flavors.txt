@@ -1,0 +1,598 @@
+absolute
+acacia
+acetic
+acetoin
+acetone
+acetophenone
+acid
+acidic
+acrid
+acrylate
+acrylic
+alcohol
+alcoholic
+aldehydic
+alkaline
+alkane
+alliaceous
+allspice
+almond
+almond shell
+amber
+ambergris
+amine
+ammonia
+ammoniacal
+angelica
+animal
+anise
+aniseed
+anisic
+apple
+apple peel
+apple skin
+apricot
+aromatic
+arrack
+asprin
+bacon
+baked
+balsam
+balsamic
+banana
+banana peel
+barley
+basil
+bay oil
+bean
+beany
+beef
+beefy
+beer
+beet
+bell
+benzaldehyde
+benzyl acetate
+benzyl propionate
+bergamot
+berry
+biscuit
+bitter
+bitter almond
+black currant
+black tea
+blackberry
+blackcurrant
+bland
+bloody
+blossom
+blueberry
+boiled shrimp
+boiled vegetable
+bois de rose
+borneol
+bouillon
+box tree
+brandy
+bread
+bread crust
+bready
+broccoli
+broom
+brown
+buchu
+burnt
+burnt almonds
+burnt sugar
+butter
+butterscotch
+buttery
+butyric
+cabbage
+cadaverous
+camomile
+camphor
+camphoraceous
+camphoreous
+cananga
+candy
+cantaloupe
+caramel
+caramellic
+caraway
+cardboard
+carnation
+carrot
+cashew
+cassia
+cassie
+castoreum
+cat
+cat-urine
+catty
+cauliflower
+cedar
+cedarleaf
+cedarwood
+celery
+cereal
+chamomile
+cheese
+cheesy
+chemical
+cherry
+chicken
+chip
+chocolate
+chrysanthemum
+cinnamic
+cinnamon
+cinnamyl
+cistus
+citral
+citric
+citrus
+citrus peel
+civet
+clam
+clary
+clean
+clean cloth
+clean clothes
+clove
+clover
+cocoa
+coconut
+coffee
+cognac
+cooked
+cooked beef juice
+cooked potato
+cool
+cooling
+coriander
+corn
+cortex
+cotton
+cotton candy
+coumarin
+coumarinic
+cranberry
+cream
+creamy
+creosote
+cresol
+crushed bug
+cucumber
+cucumber skin
+cultured dairy
+cumin
+cuminseed
+curry
+cut grass
+cut privet
+cyclamen
+dairy
+damascone
+decomposing cabbage
+deep
+delicate
+dewy
+dill
+diphenyl oxide
+dirty
+diterpene
+dried berry
+dried raspberry
+dry
+dust
+dusty
+earth
+earthy
+egg
+ester
+estery
+ether
+ethereal
+ethyl benzoate
+eucalyptus
+eugenol
+extremely sweet
+faint
+fat
+fatty
+fecal
+feet
+fenchyl
+fennel
+fenugreek
+fermented
+filbert
+fir
+fir needle
+fish
+fishy
+flat
+floral
+flower
+foliage
+formyl
+fragrant
+fresh
+fresh air
+fried
+fruit
+fruity
+fungal
+furfural
+fusel
+galbanum
+gardenia
+garlic
+gasoline
+gassy
+genet
+geranium
+ginger
+glue
+gooseberry
+grain
+grape
+grape skin
+grapefruit
+grapefruit peel
+grass
+grassy
+gravy
+greasy
+green
+green bean
+green pepper
+green tea
+guaiacol
+guaiacwood
+ham
+harsh
+hawthorn
+hawthorne
+hay
+hazelnut
+heather
+heavy
+heliotrope
+heliotropin
+herb
+herbaceous
+herbal
+honey
+honeydew
+honeysuckle
+hop_oil
+horseradish
+hot milk
+hummus
+hyacinth
+incense
+indole
+intensely
+ionone
+iris
+jam
+jammy
+jasmin
+jasmine
+juicy
+ketonic
+kiwi
+labdanum
+lactonic
+lamb
+lard
+laundered cloths
+laundry
+lavender
+leaf
+leafy
+leather
+leathery
+leaves
+leek
+lemon
+lemon peel
+lemongrass
+lettuce
+licorice
+light
+lilac
+lily
+lime
+linalool
+linden
+logenberry
+lovage
+low
+magnolia
+mahogany
+malt
+malty
+mandarin
+mango
+maple
+maple syrup
+marigold
+marshmallow
+matches
+meat
+meat broth
+meaty
+medical
+medicinal
+medicine
+melon
+melon rind
+menthol
+mentholic
+mesquite
+metal
+metallic
+mignonette
+mild
+mildew
+milk
+milky
+mimosa
+mint
+minty
+molasses
+mold
+moldy
+moss
+mossy
+moth ball
+mothball
+mouldy
+mousy
+muguet
+mushroom
+musk
+musky
+must
+mustard
+musty
+myrcene
+myrrh
+naphthalic
+naphthelene
+naphthyl
+narcissus
+natural
+neroli
+new mown hay
+nitrile
+nut
+nut skin
+nutmeg
+nutty
+oakmoss
+ocimene
+odorless
+oil
+oily
+old paper
+old wood
+onion
+opoponax
+orange
+orange blossom
+orange flower
+orange peel
+orchid
+oriental
+orris
+others
+outdoor
+overripe fruit
+ozone
+paint
+painty
+papaya
+paper
+parsley
+passion fruit
+pastry
+patchouli
+pea
+peach
+peanut
+peanut butter
+pear
+pear skin
+peely
+penetrating
+peony
+pepper
+peppermint
+peppery
+petal
+petitgrain
+phenol
+phenolic
+pine
+pine needle
+pineapple
+pistachio
+plant
+plastic
+pleasant
+plum
+popcorn
+pork
+potato
+powdery
+powerful
+privet
+prune
+pulpy
+pumpkin
+pungent
+putrid
+pyridine
+radish
+rancid
+raspberry
+raw
+red fruit
+red hots
+red rose
+repulsive
+resin
+resinous
+rhubarb
+ripe
+ripe apricot
+roast
+roast beef
+roasted
+roasted meat
+roasted nut
+roasted nuts
+roasted peanuts
+root
+rooty
+roquefort cheese
+rose
+rose acetate
+rose bud
+rose dried
+rose flower
+rose oxide
+rose water
+rosemary
+rosy
+rotten
+rotting
+rubber
+rubbery
+rum
+rummy
+saffron
+sandalwood
+sappy
+sarsaparilla
+sassafrass
+sausage
+savory
+scallion
+seaweed
+seedy
+sharp
+shellfish
+shrimp
+sickening
+skunky
+slightly fruity
+slightly rose
+slightly waxy
+smoke
+smoked
+smoky
+soap
+soapy
+soft
+soil
+solvent
+soup
+sour
+soy
+soybean
+spearmint
+spice
+spicy
+stem
+stinky
+storax
+straw
+strawberry
+strong
+styrax
+styrene
+sugar
+sulfur
+sulfurous
+sulfury
+sweat
+sweaty
+sweet
+sweet corn
+sweet-like
+syrup
+taco
+tallow
+tangy
+tar
+tarragon
+tarry
+tart
+tea
+terpene
+terpenic
+terpentine
+terpineol
+thuja
+thujone
+thyme
+thymol
+toasted
+tobacco
+toffee
+toluene
+tomato
+tomato leaf
+tonka
+tropica
+tropical
+truffle
+tuberose
+turnup
+turpentine
+tutti frutti
+unpleasant
+unripe banana
+unripe fruit
+unripe plum
+urine
+valerian
+vanilla
+vanillin
+vegetable
+very mild
+very slight
+very strong
+vinegar
+vinous
+violet
+violet-leaf
+walnut
+warm
+wasabi
+watercress
+watermelon
+watery
+wax
+waxy
+weak
+weak spice
+weedy
+wet
+whiskey
+wild
+wine
+wine-lee
+wine_like
+winey
+wintergreen
+wood
+woody
+yeast
+yeasty
+ylang
