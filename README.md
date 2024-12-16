@@ -1,6 +1,10 @@
 
 # Comparing the Embeddings of Two National Cuisines with Flavor Profiling 
 
+### Paper : 
+[Paper Link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11705201&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true)
+
+
 #### 진행 기간 : 2023.07~2023.10
 
 #### 주제 : Flavor Profiling 기반 두 국가의 음식 임베딩 비교 및 유사 음식 추천
